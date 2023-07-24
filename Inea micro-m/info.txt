@@ -1,2 +1,6 @@
 Intel 8080-based mikro-m computer (1975–1983)
 https://www.inea.si/wp-content/uploads/2022/09/22-07-07-INEA-CV-3.pdf
+
+This is a part of UDA systema for process controll (industrial computer for robotization of the manufacturing) . 1987 IUV Vrhnika barvajnje usnja, SOP Krško paletizacija. https://github.com/rihardgDev/Slovenian-Rare-Computers/blob/main/Inea%20micro-m/22005308.pdf (page 137)   
+https://github.com/rihardgDev/Slovenian-Rare-Computers/blob/main/Inea%20micro-m/katalog_Robot.si_.pdf  (page 4)  
+
